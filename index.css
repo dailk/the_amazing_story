@@ -1,0 +1,34 @@
+h1 {
+  text-align: center;
+}
+
+img {
+  width: 20%; 
+}
+
+body {
+  background: url("paisley.png");
+}
+
+  .red{
+    color:blue;
+  }
+  
+  .hi{
+    color: blue;
+  }
+  div {
+    color: black;
+  }
+  
+  .story_paragraphs {
+    font-family: Arial;
+  }
+  
+  .container {
+    width: 80%;
+    margin: 0 auto;
+    ;
+  }
+  
+
